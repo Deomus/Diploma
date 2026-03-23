@@ -1,0 +1,1 @@
+"""Minimal quad delivery package."""
